@@ -33,7 +33,7 @@ builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(policy =>
     {
-        policy.WithOrigins("chatfrontend-f4e5cqc7hxc0gxep.uksouth-01.azurewebsites.net")
+        policy.WithOrigins("https://proud-sky-03c41bc03.4.azurestaticapps.net")
               .AllowAnyHeader()
               .AllowAnyMethod()
               .AllowCredentials();
