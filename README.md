@@ -55,4 +55,4 @@ This is a real-time chat application built with ASP.NET Core, SignalR, and Azure
 
 The application is deployed to Azure. You can access it at the following link:
 
-[Real-Time Chat]([https://real-time-chat-server-g5f0dgdwhqevgne4.northeurope-01.azurewebsites.net](https://proud-sky-03c41bc03.4.azurestaticapps.net/))
+[Real-Time Chat]([here](https://proud-sky-03c41bc03.4.azurestaticapps.net/))
